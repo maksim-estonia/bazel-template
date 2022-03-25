@@ -3,4 +3,5 @@ cc_binary(
     name = "main",
     srcs = ["main.cc"],
     deps = ["//src/lib:GreetingLib"],
+    data = ["//data:input.txt", "//data:output.txt"],
 )

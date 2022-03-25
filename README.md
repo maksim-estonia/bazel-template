@@ -15,3 +15,5 @@ bazel build tests:tests
 ```
 bazel test tests:tests
 ```
+
+[C++ Bazel project with a Data repository](https://stackoverflow.com/questions/46100906/c-bazel-project-with-a-data-repository)
